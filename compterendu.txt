@@ -1,0 +1,18 @@
+Bonjour, 
+
+voici le rendu de la page Web en suivant le tutoriel 
+https://www.w3.org/Style/Examples/011/firstcss.fr.html
+
+Avec l'aide de mon père, j'ai mis une version avec le css à l'intérieur de l'html (https://github.com/barais/devoirMarionWeb/blob/main/index.html) 
+et une version avec le css séparée de l'html ici (https://github.com/barais/devoirMarionWeb/blob/main/index2.html).
+
+Nous avons aussi mis en ligne les deux versions ici
+https://olivier.barais.fr/devoirMarionWeb/index.html 
+et ici
+https://olivier.barais.fr/devoirMarionWeb2/index.html
+
+pour comparer le nombre de requêtes reseau. 
+
+Cordilament 
+
+Marion Barais
